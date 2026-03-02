@@ -33,11 +33,13 @@ No post-production. No extra apps. What you see is what gets recorded.
 
 ## ✨ How It Works
 
-| Feature | Shortcut | Plan |
-|---------|----------|------|
-| 🔍 Screen Zoom | `Ctrl + A` + scroll | Free |
-| 🎯 Focus Highlight | `Ctrl + X` + drag | Premium |
-| ✏️ Screen Drawing | `Ctrl + X` + drag | Premium |
+| Feature | Default Shortcut | Plan | Customizable |
+|---------|-----------------|------|:---:|
+| 🔍 Screen Zoom | `Ctrl + A` + scroll | Free | ✅ |
+| 🎯 Focus Highlight | `Ctrl + X` + drag | Premium | ✅ |
+| ✏️ Screen Drawing | `Ctrl + X` + drag | Premium | ✅ |
+
+> 💡 **All hotkeys are fully customizable** — change them to any key combination you prefer in ZoomShot preferences.
 
 ---
 
