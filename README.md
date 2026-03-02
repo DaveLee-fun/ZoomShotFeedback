@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/5b/9c/265b9cc4-0dff-bde7-e09a-5bc19d3b5672/Placeholder.mill/200x200bb-75.webp" width="120" alt="ZoomShot" />
-
 # ZoomShot — Feedback & Requests
 
 **Live zoom · Focus highlight · Screen drawing — all live on Mac**  
@@ -17,10 +15,8 @@ No post-production. No extra apps. What you see is what gets recorded.
 ## 🎥 See it in action
 
 <div align="center">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/5b/9c/265b9cc4-0dff-bde7-e09a-5bc19d3b5672/Placeholder.mill/400x400bb-75.webp" width="400" alt="ZoomShot preview" />
+  <img src="https://www.noimans.site/imgs/ZoomShot_demo_960.gif" width="680" alt="ZoomShot demo" />
 </div>
-
-> 🎬 [Watch full demo on Mac App Store →](https://apps.apple.com/app/id6758536367)
 
 ---
 
