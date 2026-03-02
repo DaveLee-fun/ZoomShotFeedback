@@ -1,6 +1,8 @@
 <div align="center">
 
-# ZoomShot — Feedback & Requests
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/5b/9c/265b9cc4-0dff-bde7-e09a-5bc19d3b5672/Placeholder.mill/200x200bb-75.webp" width="100" alt="ZoomShot" />
+
+# ZoomShot — Live Zoom & Screen Annotation
 
 **Live zoom · Focus highlight · Screen drawing — all live on Mac**  
 No post-production. No extra apps. What you see is what gets recorded.
