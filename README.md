@@ -15,7 +15,7 @@ No post-production. No extra apps. What you see is what gets recorded.
 ## 🎥 See it in action
 
 <div align="center">
-  <img src="https://www.noimans.site/imgs/ZoomShot_demo_960.gif" width="680" alt="ZoomShot demo" />
+  <img src="https://raw.githubusercontent.com/DaveLee-fun/ZoomShotFeedback/main/assets/ZoomShot_demo.gif" width="680" alt="ZoomShot demo" />
 </div>
 
 ---
