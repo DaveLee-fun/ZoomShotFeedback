@@ -15,7 +15,7 @@ ZoomShot is a macOS app for presentations and screen recordings.
 | Type | Link |
 |------|------|
 | Bug Report | [Submit a bug](https://github.com/DaveLee-fun/ZoomShotFeedback/issues/new?template=bug_report.md) |
-| Feature Request | [Request a feature](https://github.com/DaveLee-fun/ZoomShotFeedback/issues/new?template=feature_request.md) |
+ | Feature Request | [Request a feature](https://github.com/DaveLee-fun/ZoomShotFeedback/issues/new?template=feature_request.md) |
 | View all issues | [See all reports & discussions](https://github.com/DaveLee-fun/ZoomShotFeedback/issues) |
 
 ## Links
