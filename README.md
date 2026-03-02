@@ -1,23 +1,52 @@
-# ZoomShot Feedback
+<div align="center">
 
-> Bug reports and feature requests for **ZoomShot** — Mac screen zoom & annotation tool
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/5b/9c/265b9cc4-0dff-bde7-e09a-5bc19d3b5672/Placeholder.mill/200x200bb-75.webp" width="120" alt="ZoomShot" />
 
-## What is ZoomShot?
+# ZoomShot — Feedback & Requests
 
-ZoomShot is a macOS app for presentations and screen recordings.
-- **Live zoom** with Ctrl+A + scroll
-- **Focus highlight + drawing** with Ctrl+X + drag
-- Works with any screen recorder (OBS, QuickTime, Camtasia...)
-- Available on the [Mac App Store](https://apps.apple.com/app/id6758536367)
+**Live zoom · Focus highlight · Screen drawing — all live on Mac**  
+No post-production. No extra apps. What you see is what gets recorded.
 
-## Submit Feedback
+[![Download on Mac App Store](https://img.shields.io/badge/Download_on_Mac_App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/id6758536367)
+[![Open Issues](https://img.shields.io/github/issues/DaveLee-fun/ZoomShotFeedback?style=for-the-badge&color=orange&label=Open+Issues)](https://github.com/DaveLee-fun/ZoomShotFeedback/issues)
 
-| Type | Link |
-|------|------|
-| Bug Report | [Submit a bug](https://github.com/DaveLee-fun/ZoomShotFeedback/issues/new?template=bug_report.md) |
- | Feature Request | [Request a feature](https://github.com/DaveLee-fun/ZoomShotFeedback/issues/new?template=feature_request.md) |
-| View all issues | [See all reports & discussions](https://github.com/DaveLee-fun/ZoomShotFeedback/issues) |
+</div>
 
-## Links
-- Mac App Store: https://apps.apple.com/app/id6758536367
-- Website: https://fun-coding.org
+---
+
+## 🎥 See it in action
+
+<div align="center">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/5b/9c/265b9cc4-0dff-bde7-e09a-5bc19d3b5672/Placeholder.mill/400x400bb-75.webp" width="400" alt="ZoomShot preview" />
+</div>
+
+> 🎬 [Watch full demo on Mac App Store →](https://apps.apple.com/app/id6758536367)
+
+---
+
+## 📬 Submit Feedback
+
+| | |
+|---|---|
+| 🐛 **Bug Report** | Something broken? → [Report a bug](https://github.com/DaveLee-fun/ZoomShotFeedback/issues/new?template=bug_report.md) |
+| 💡 **Feature Request** | Have an idea? → [Request a feature](https://github.com/DaveLee-fun/ZoomShotFeedback/issues/new?template=feature_request.md) |
+| 💬 **Discussion** | Just want to chat? → [Open a discussion](https://github.com/DaveLee-fun/ZoomShotFeedback/issues/new) |
+| 📋 **All Issues** | See everything → [View all reports & discussions](https://github.com/DaveLee-fun/ZoomShotFeedback/issues) |
+
+---
+
+## ✨ How It Works
+
+| Feature | Shortcut | Plan |
+|---------|----------|------|
+| 🔍 Screen Zoom | `Ctrl + A` + scroll | Free |
+| 🎯 Focus Highlight | `Ctrl + X` + drag | Premium |
+| ✏️ Screen Drawing | `Ctrl + X` + drag | Premium |
+
+---
+
+## 🔗 Links
+
+- 🛒 [Mac App Store](https://apps.apple.com/app/id6758536367)
+- 🌐 [fun-coding.org](https://fun-coding.org)
+- 📜 [Privacy Policy](https://www.noimans.site/privacy_zoomshot.html)
